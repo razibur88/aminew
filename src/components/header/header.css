@@ -1,0 +1,7 @@
+.main{
+    background-color: green;
+}
+.main .navbar-nav a{
+    padding: 0 30px !important;
+    color: red !important;
+}
